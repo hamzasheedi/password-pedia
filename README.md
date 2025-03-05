@@ -18,7 +18,7 @@ cd password-strength-meter
 ### 2️⃣ Install Dependencies
 pip install streamlit 
 
-###3️⃣ Run the Streamlit App
+### 3️⃣ Run the Streamlit App
 streamlit run main.py
 
 ### 🤝 Contributing
