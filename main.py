@@ -11,7 +11,7 @@ from password_gen import generate_password
 st.set_page_config(
     page_title="Pedia",  # Title shown on the browser tab
     page_icon="🔐",  # Favicon/icon
-    layout="centered",  # Can be "wide" or "centered"
+    layout="wide",  # Can be "wide" or "centered"
     initial_sidebar_state="collapsed"  # Can be "auto", "expanded", or "collapsed"
 )
 
