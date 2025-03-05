@@ -12,8 +12,8 @@ A **Streamlit-based** web app that helps users evaluate the strength of their pa
 ## 🛠 Installation & Usage  
 
 ### 1️⃣ Clone the Repository  
-git clone https://github.com/YOUR_USERNAME/password-strength-meter.git
-cd password-strength-meter
+git clone https://github.com/hamzasheedi/password-pedia.git
+cd password-pedia
 
 ### 2️⃣ Install Dependencies
 pip install streamlit 
